@@ -1,0 +1,4 @@
+[submodule "fastapi-core"]
+	path = fastapi-core
+	url = https://github.com/fastapi/fastapi.git
+	branch = master
